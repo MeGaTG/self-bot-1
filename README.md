@@ -22,20 +22,15 @@ cd self-bot
 ```
 
 ```bash
-
-☢OffLiNeTeam☢
-
-```
-```bash
 ☢OffLiNeTeam☢
 
 Leader : 
 
-[#Amir](http://telegram.me/This_Is_Amir)<br>
+[#Amir](http://telegram.me/This_Is_Amir).
 
  Channel
 
-[[OffLiNeTeam](http://telegram.me/OffLiNeTeam)
+[[OffLiNeTeam](http://telegram.me/OffLiNeTeam).
 ```
 
 spical thanks BeatBotTeam
