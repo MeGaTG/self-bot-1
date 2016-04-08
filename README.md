@@ -21,17 +21,17 @@ cd self-bot
  موفق و پیروز باشید 
 ```
 
-```bash
+
 ☢OffLiNeTeam☢
 
 Leader : 
-
+-----------------
 [#Amir](http://telegram.me/This_Is_Amir).
 
  Channel
-
+-----------------
 [[OffLiNeTeam](http://telegram.me/OffLiNeTeam).
-```
+
 
 spical thanks BeatBotTeam
  
