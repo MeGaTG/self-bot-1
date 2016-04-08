@@ -26,11 +26,11 @@ cd self-bot
 
 Leader : 
 -----------------
-[#Amir](http://telegram.me/This_Is_Amir).
+[#Amir](http://telegram.me/This_Is_Amir)
 
  Channel
 -----------------
-[[OffLiNeTeam](http://telegram.me/OffLiNeTeam).
+[OffLiNeTeam](http://telegram.me/OffLiNeTeam)
 
 
 spical thanks BeatBotTeam
